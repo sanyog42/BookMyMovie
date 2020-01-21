@@ -10,5 +10,4 @@ You can view it by downloading DosBox from : https://www.dosbox.com/ and then co
 1.	It is to be made sure that the file location pointing to the BGI directory in the code is in accordance to the directory where it is installed in the system.
 2.	It is to be made sure that the graphics library is properly linked.
 
-
 I thought of linking it with a online database but dosbox does not support sending even GET data online.
